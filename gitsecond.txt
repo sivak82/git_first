@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 welcome dev
-=======
 welcome to second
->>>>>>> origin/master
